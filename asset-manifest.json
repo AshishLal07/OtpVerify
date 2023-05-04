@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/otpverify/static/css/main.8410853d.css",
+    "main.js": "/otpverify/static/js/main.ef041779.js",
+    "index.html": "/otpverify/index.html",
+    "main.8410853d.css.map": "/otpverify/static/css/main.8410853d.css.map",
+    "main.ef041779.js.map": "/otpverify/static/js/main.ef041779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8410853d.css",
+    "static/js/main.ef041779.js"
+  ]
+}
